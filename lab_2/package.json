@@ -1,0 +1,19 @@
+{
+  "name": "joseph",
+  "version": "0.1.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Necrogear/CS2410.git"
+  },
+  "author": "Joseph Rolli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Necrogear/CS2410/issues"
+  },
+  "homepage": "https://github.com/Necrogear/CS2410#readme"
+}
