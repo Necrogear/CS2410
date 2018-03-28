@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Necrogear/CS2410/issues"
   },
-  "homepage": "https://github.com/Necrogear/CS2410#readme"
+  "homepage": "https://github.com/Necrogear/CS2410#readme",
+  "dependencies": {
+    "mocha": "^5.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
 }
